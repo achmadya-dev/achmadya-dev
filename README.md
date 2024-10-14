@@ -52,8 +52,8 @@
 ### 📊 Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achmadya-dev&show_icons=true&locale=en&layout=compact&theme=dracula" alt="achmadya-dev" style="margin-right: 10px; height: 200px;" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achmadya-dev&theme=dracula" alt="achmadya-dev" style="height: 200px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achmadya-dev&show_icons=true&locale=en&layout=compact&theme=dracula" alt="achmadya-dev" style="margin-right: 10px; height: 175px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achmadya-dev&theme=dracula" alt="achmadya-dev" style="height: 175px;" />
 </div>
 
 
