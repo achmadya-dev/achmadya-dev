@@ -1,6 +1,6 @@
 # 🏄‍♂️ Achmadya.Dev
 
-🌟 Hello! I am a Full Stack Developer with over a year of experience in building efficient and scalable web applications. I possess strong problem-solving skills and believe that effective communication is key to successful teamwork. I am committed to continuously improving the quality of code and the functionality of the applications I develop. Let’s connect and explore collaboration opportunities.
+🌟 Hello! I am a Full Stack Developer with over a year of experience in building efficient and scalable web applications.
 
 ### 🧰 Languages and Tools
 
