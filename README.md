@@ -34,11 +34,11 @@
 <img align="right" alt="Coding" height="300" src="https://i.imgflip.com/4vmixg.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achmadya-dev" /> </p>
 
-🚀 I’m currently open to opportunities as a **Full Stack Developer** and **Backend Developer**.
+🚀 I’m currently working as a Backend Developer.
 
 🌿 I’m actively learning **MERN**, **Next.js**, **NestJS**, and more.
 
-💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, **Laravel**, and other topics.
+💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, or **Laravel**
 
 📫 You can reach me at achmadya.dev@gmail.com.
 
