@@ -2,6 +2,23 @@
 
 🌟 Hello! I am a Full Stack Developer with over a year of experience in building efficient and scalable web applications.
 
+#
+<img align="right" alt="Coding" height="300" src="https://i.imgflip.com/4vmixg.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achmadya-dev" /> </p>
+
+🚀 I’m currently working as a Backend Developer.
+
+🌿 I’m actively learning **MERN**, **Next.js**, **NestJS**, and more.
+
+💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, or **Laravel**
+
+📫 You can reach me at achmadya.dev@gmail.com.
+
+<br />
+<br />
+<br />
+<br />
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" height="50px" style="padding:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,25 +53,6 @@
 <br />
 <br />
 <br />
-
-#
-<img align="right" alt="Coding" height="300" src="https://i.imgflip.com/4vmixg.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achmadya-dev" /> </p>
-
-🚀 I’m currently working as a Backend Developer.
-
-🌿 I’m actively learning **MERN**, **Next.js**, **NestJS**, and more.
-
-💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, or **Laravel**
-
-📫 You can reach me at achmadya.dev@gmail.com.
-
-<br />
-<br />
-<br />
-<br />
-
-#
 
 ### 📊 Stats
 
