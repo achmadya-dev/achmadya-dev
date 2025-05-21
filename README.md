@@ -8,7 +8,7 @@
 
 🚀 I’m currently working as a Backend Developer.
 
-🌿 I’m actively learning **MERN**, **Next.js**, **NestJS**, and more.
+🌿 I’m actively learning **MERN**, **Next.js**, **NestJS**, GenAI, and more.
 
 💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, or **Laravel**
 
