@@ -1,6 +1,6 @@
 # 🏄‍♂️ Achmadya.Dev
 
-🌟 Hello! I am a Full Stack Developer with over a year of experience in building efficient and scalable web applications.
+🌟 Software Developer with 2 years of experience in full-stack development using TypeScript, React, Express, and Laravel. Passionate about clean code and building scalable web solutions.
 
 #
 <img align="right" alt="Coding" height="250" src="https://i.imgflip.com/4vmixg.jpg">
@@ -8,7 +8,7 @@
 
 🚀 I’m currently working as a Backend Developer.
 
-🌿 I’m actively learning **MERN**, **Next.js**, **NestJS**, **GenAI**, and more.
+🌿 I’m actively learning **MERN**, **Next.js**, **Nest.js**, **Generative AI**, and more.
 
 💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, or **Laravel**
 
