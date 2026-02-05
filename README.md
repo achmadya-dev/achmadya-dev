@@ -8,9 +8,9 @@
 
 🚀 I’m currently working as a Backend Developer.
 
-🌿 I’m actively learning **MERN**, **Next.js**, **Nest.js**, **Generative AI**, and more.
+🌿 I’m actively learning **Go**, **Next.js**, **Python**, **Generative AI**, and more.
 
-💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **JavaScript**, or **Laravel**
+💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **SQL**, or **Any Backend Framework**
 
 📫 You can reach me at achmadya.dev@gmail.com.
 
