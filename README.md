@@ -62,6 +62,3 @@
 <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></td>
 </tr>
 </table>
-
-<br />
-<br />
