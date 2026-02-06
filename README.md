@@ -47,6 +47,8 @@
 <img align="left" alt="Neovim" width="30px" height="50px" style="padding:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"/>
 <img align="left" alt="Bash" width="30px" height="50px" style="padding:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="Firebase Cloud Messaging" width="30px" height="50px" style="padding:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
+<img align="left" alt="Java" width="30px" height="50px" style="padding:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" height="50px" style="padding:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 
 
 <br />
