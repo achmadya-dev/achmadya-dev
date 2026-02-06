@@ -8,7 +8,7 @@
 
 🚀 I’m currently working as a Backend Developer.
 
-🌿 I’m actively learning **Go**, **Next.js**, **Python**, **Generative AI**, and more.
+🌿 I’m actively learning **Go**, **Next.js**, **Python**, and **Generative AI**.
 
 💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **SQL**, or **Any Backend Framework**
 
