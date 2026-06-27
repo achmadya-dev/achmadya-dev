@@ -8,7 +8,7 @@
 
 🚀 I’m currently working as a Backend Developer.
 
-🌿 I’m actively learning **Go**, **Next.js**, **Python**, and **Generative AI**.
+🌿 I’m actively learning **Harness Engineering**.
 
 📫 You can reach me at achmadya.dev@gmail.com.
 
