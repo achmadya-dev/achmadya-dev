@@ -1,6 +1,6 @@
 # 🏄‍♂️ Achmadya.Dev
 
-🌟 Software Developer with 2 years of experience in full-stack development using TypeScript, React, Express, and Laravel. Passionate about clean code and building scalable web solutions.
+🌟 Software Developer with 2 years of experience in full-stack development. Passionate about clean code and building scalable web solutions.
 
 #
 <img align="right" alt="Coding" height="250" src="https://i.imgflip.com/4vmixg.jpg">
