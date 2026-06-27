@@ -10,8 +10,6 @@
 
 🌿 I’m actively learning **Go**, **Next.js**, **Python**, and **Generative AI**.
 
-💬 Feel free to ask me about **Linux**, **Docker**, **Cloud**, **SQL**, or **Any Backend Framework**
-
 📫 You can reach me at achmadya.dev@gmail.com.
 
 <br />
