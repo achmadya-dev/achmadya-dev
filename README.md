@@ -1,62 +1,46 @@
-# 🏄‍♂️ Achmadya.Dev
+# Achmadya.Dev
 
-🌟 Software Developer with 2 years of experience in full-stack development. Passionate about clean code and building scalable web solutions.
+Software Engineer focused on full-stack applications, system design, and the infrastructure around them. I build reliable web systems and AI-assisted developer workflows.
 
-#
-<img align="right" alt="Coding" height="250" src="https://i.imgflip.com/4vmixg.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achmadya-dev" /> </p>
+I currently work as a **Backend Developer** at Knitto Group, where I build and maintain enterprise software for factory operations. I also work on freelance WordPress, PHP, and Laravel projects.
 
-🚀 I’m currently working as a Backend Developer.
+I am currently building and exploring:
 
-🌿 I’m actively learning **Harness Engineering**.
+- Web applications and backend services
+- System design and APIs
+- AI-assisted development
+- MCP servers and agent skills
 
-📫 You can reach me at achmadya.dev@gmail.com.
+📍 Bandung, West Java, Indonesia<br />
+📫 [achmadya.dev@gmail.com](mailto:achmadya.dev@gmail.com)<br />
+🌐 [achmadya.dev](https://achmadya.dev)<br />
+💼 [LinkedIn](https://www.linkedin.com/in/achmadya/)
 
-<br />
-<br />
-<br />
-<br />
+### Selected Work
 
-### 🧰 Languages and Tools
+- [Mandor Plate](https://github.com/achmadya-dev/mandor-plate) - A full-stack monorepo foundation using NestJS, Next.js, PostgreSQL, TypeScript, and Turborepo.
+- [MCP Query](https://github.com/achmadya-dev/mcp-query) - MCP servers for querying Excel, MySQL, PostgreSQL, SQL Server, and SQLite.
+- [Portfolio](https://achmadya.dev) - Notes on web systems, system design, MCP, and AI-assisted development.
 
-<table>
-<tr>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></td>
-</tr>
+### Languages and Tools
 
-<tr>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></td>
-</tr>
+<p>
+  <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img alt="WordPress" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="NestJS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Swagger" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+</p>
 
-<tr>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/></td>
-</tr>
+### Writing
 
-<tr>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
-<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></td>
-</tr>
-</table>
+I write about implementation boundaries, traceable MCP tools, monorepo context for AI, Markdown rendering, SQL Server, and backend streaming workflows on [achmadya.dev/blog](https://achmadya.dev/blog).
