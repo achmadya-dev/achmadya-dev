@@ -3,7 +3,7 @@
 Software Engineer focused on full-stack applications, system design, and the infrastructure around them. I build reliable web systems and AI-assisted developer workflows.
 
 <p align="center">
-  <img width="320" alt="Animated coding illustration" src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" />
+  <img width="320" alt="Developer coding on a laptop" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 </p>
 
 I currently work as a **Backend Developer** at Knitto Group, where I build and maintain enterprise software for factory operations. I also work on freelance WordPress, PHP, and Laravel projects.
