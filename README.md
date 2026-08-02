@@ -15,17 +15,6 @@ I am currently building and exploring:
 - AI-assisted development
 - MCP servers and agent skills
 
-📍 Bandung, West Java, Indonesia<br />
-📫 [achmadya.dev@gmail.com](mailto:achmadya.dev@gmail.com)<br />
-🌐 [achmadya.dev](https://achmadya.dev)<br />
-💼 [LinkedIn](https://www.linkedin.com/in/achmadya/)
-
-### Selected Work
-
-- [Mandor Plate](https://github.com/achmadya-dev/mandor-plate) - A full-stack monorepo foundation using NestJS, Next.js, PostgreSQL, TypeScript, and Turborepo.
-- [MCP Query](https://github.com/achmadya-dev/mcp-query) - MCP servers for querying Excel, MySQL, PostgreSQL, SQL Server, and SQLite.
-- [Portfolio](https://achmadya.dev) - Notes on web systems, system design, MCP, and AI-assisted development.
-
 ### Languages and Tools
 
 <p>
@@ -44,7 +33,3 @@ I am currently building and exploring:
   <img alt="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Swagger" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </p>
-
-### Writing
-
-I write about implementation boundaries, traceable MCP tools, monorepo context for AI, Markdown rendering, SQL Server, and backend streaming workflows on [achmadya.dev/blog](https://achmadya.dev/blog).
